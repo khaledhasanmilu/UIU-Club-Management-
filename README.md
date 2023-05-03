@@ -1,2 +1,3 @@
 # UIU-Club-Management-
-in this project 
+In this project i show United International Universities every club dayabase system.
+Admin Panal handle whole club system and member panal do search and find member database.
